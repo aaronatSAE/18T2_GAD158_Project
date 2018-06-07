@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: ProBuilderPreferences
   m_EditorClassIdentifier: 
   m_Bool_keys:
+<<<<<<< HEAD
   - pbDragSelectWholeElement
   m_Int_keys:
   - pbDefaultEditLevel
@@ -31,5 +32,26 @@ MonoBehaviour:
   - 0
   - 0
   m_String_values: []
+=======
+  - pbIconGUI
+  m_Int_keys:
+  - pbDefaultEditLevel
+  - pbDefaultSelectionMode
+  - pb_GIWorkflowMode
+  m_Float_keys:
+  - pbEditorScroll.x
+  - pbEditorScroll.y
+  m_String_keys:
+  - pbCurrentMaterialPalette
+  m_Color_keys: []
+  m_Material_keys: []
+  m_Bool_values: 00
+  m_Int_values: 010000000100000000000000
+  m_Float_values:
+  - 0
+  - 0
+  m_String_values:
+  - Assets/ProCore/ProBuilder/Data/Default Material Palette.asset
+>>>>>>> 47c2bbfcfc8e180091ad3ef66e5b037bacfbded2
   m_Color_values: []
   m_Material_values: []
