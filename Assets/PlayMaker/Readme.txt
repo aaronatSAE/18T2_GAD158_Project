@@ -1,8 +1,10 @@
 ------------------------------------------------------
 PlayMaker - Visual Scripting for Unity
 ------------------------------------------------------
+STUDENT VERSION
+------------------------------------------------------
 
-NOTE: The PlayMaker/Asset Store license is for a single user at a time. If multiple people use PlayMaker, you need multiple licenses!
+NOTE: The Student Version is restricted to actions that ship with Playmaker and can only be used for non commercial projects.
 
 ------------------------------------------------------
 INSTALLATION:
@@ -10,7 +12,7 @@ INSTALLATION:
 
 PLEASE BACKUP PROJECTS BEFORE IMPORTING OR UPDATING PLAYMAKER!!
 
-Import the latest version of PlayMaker from the Asset Store or Hutong Games Store.
+Import the latest version of PlayMaker Student Version from the Hutong Games Store.
 This imports the PlayMaker Installer and various update tools.
 
 To install PlayMaker select Install PlayMaker from the PlayMaker Welcome Screen.
