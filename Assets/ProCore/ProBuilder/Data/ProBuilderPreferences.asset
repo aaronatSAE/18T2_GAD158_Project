@@ -12,47 +12,8 @@ MonoBehaviour:
   m_Name: ProBuilderPreferences
   m_EditorClassIdentifier: 
   m_Bool_keys:
-<<<<<<< HEAD
-  - pbShowMover
   - pbIconGUI
-  - pbDefaultOpenInDockableWindow
-  - pbShapeWindowFloating
-  m_Int_keys:
-  - pbDefaultEditLevel
-  - pbDefaultSelectionMode
-  - pbHandleAlignment
-  - pb_GIWorkflowMode
-=======
-<<<<<<< HEAD
-  - pbDragSelectWholeElement
-  m_Int_keys:
-  - pbDefaultEditLevel
-  - pbDefaultSelectionMode
-  - pbDragSelectMode
-  - pb_GIWorkflowMode
-  - pbHandleAlignment
->>>>>>> e7c5ac1fb34306f41b32960dc00621a3bf56b488
-  m_Float_keys:
-  - pbEditorScroll.x
-  - pbEditorScroll.y
-  m_String_keys: []
-  m_Color_keys: []
-  m_Material_keys: []
-<<<<<<< HEAD
-  m_Bool_values: 01000100
-  m_Int_values: 01000000020000000000000000000000
-=======
-  m_Bool_values: 01
-  m_Int_values: 0000000002000000000000000000000000000000
->>>>>>> e7c5ac1fb34306f41b32960dc00621a3bf56b488
-  m_Float_values:
-  - 0
-  - 0
-  m_String_values: []
-<<<<<<< HEAD
-=======
-=======
-  - pbIconGUI
+  - pbMaterialEditorFloating
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
@@ -64,14 +25,12 @@ MonoBehaviour:
   - pbCurrentMaterialPalette
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 00
-  m_Int_values: 010000000100000000000000
+  m_Bool_values: 0000
+  m_Int_values: 000000000100000000000000
   m_Float_values:
   - 0
   - 0
   m_String_values:
   - Assets/ProCore/ProBuilder/Data/Default Material Palette.asset
->>>>>>> 47c2bbfcfc8e180091ad3ef66e5b037bacfbded2
->>>>>>> e7c5ac1fb34306f41b32960dc00621a3bf56b488
   m_Color_values: []
   m_Material_values: []
