@@ -1958,13 +1958,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 688063914}
-  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -11, y: 20, z: -38}
+  m_LocalRotation: {x: 0.34124172, y: 0.3412416, z: -0.6193175, w: 0.61931753}
+  m_LocalPosition: {x: -10.999995, y: 14.496815, z: -30.012302}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 57.709003, y: 0, z: -90.00001}
 --- !u!43 &689712613
 Mesh:
   m_ObjectHideFlags: 0
@@ -2566,7 +2566,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh16354
+  m_Name: pb_Mesh28648
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
