@@ -6,7 +6,7 @@ using UnityEngine;
     {
         public GameObject objectToSpawn;
         GameObject prefabClone;
-
+    // soccer is for stupid people
         void Update()
         {
             // if the left mouse button is clicked
