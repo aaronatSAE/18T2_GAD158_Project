@@ -15,6 +15,7 @@ MonoBehaviour:
     floatVariables: []
     intVariables:
     - useVariable: 1
+<<<<<<< HEAD
       name: Point Reward P2
       tooltip: 
       showInInspector: 0
@@ -28,12 +29,37 @@ MonoBehaviour:
       value: 5
     boolVariables: []
     stringVariables: []
+=======
+      name: Current Player Health i
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    boolVariables: []
+    stringVariables:
+    - useVariable: 1
+      name: Current Player Health s
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
+>>>>>>> 6f0153b021a524910115005d60290d558b7bbb32
     vector2Variables: []
     vector3Variables: []
     colorVariables: []
     rectVariables: []
     quaternionVariables: []
+<<<<<<< HEAD
     gameObjectVariables: []
+=======
+    gameObjectVariables:
+    - useVariable: 1
+      name: Get Health Manager
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+>>>>>>> 6f0153b021a524910115005d60290d558b7bbb32
     objectVariables: []
     materialVariables: []
     textureVariables: []
@@ -41,7 +67,14 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
+<<<<<<< HEAD
     variableCategoryIDs: 0000000000000000
   events:
   - Add Point
   - Add Point P2
+=======
+    variableCategoryIDs: 000000000000000000000000
+  events:
+  - Add Health
+  - Decrease Health
+>>>>>>> 6f0153b021a524910115005d60290d558b7bbb32
