@@ -509,7 +509,7 @@ MonoBehaviour:
     RestartOnEnable: 1
     EnableDebugFlow: 0
     EnableBreakpoints: 1
-    editorFlags: 1
+    editorFlags: 0
     activeStateName: 
     mouseEvents: 0
     handleLevelLoaded: 0
@@ -580,7 +580,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 50
-        y: 212
+        y: 100
         width: 140
         height: 32
       isBreakpoint: 0
@@ -667,8 +667,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 334
-        y: 211
+        x: 327
+        y: 117
         width: 124
         height: 16
       isBreakpoint: 0
@@ -6368,7 +6368,7 @@ MonoBehaviour:
         - 
         - 
         - 
-        actionEnabled: 01010101
+        actionEnabled: 00000000
         actionIsOpen: 01010101
         actionStartIndex: 00000000050000000a0000000f000000
         actionHashCodes: 9c5124009c5124009c5124009c512400
@@ -7946,7 +7946,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: GUI Text
+  m_Text: Health
 --- !u!222 &1306665399
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9140,7 +9140,7 @@ MonoBehaviour:
         - 
         - 
         - 
-        actionEnabled: 01010101
+        actionEnabled: 01000000
         actionIsOpen: 01010101
         actionStartIndex: 00000000050000000a0000000f000000
         actionHashCodes: 9c5124009c5124009c5124009c512400
@@ -9178,7 +9178,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 15274986}
         - ownerOption: 1
           gameObject:
             useVariable: 0
