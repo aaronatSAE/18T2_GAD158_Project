@@ -1589,7 +1589,7 @@ MonoBehaviour:
       isGlobal: 1
     - name: Add Point P2
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     - name: timed point P1
       isSystemEvent: 0
       isGlobal: 0
@@ -1608,7 +1608,7 @@ MonoBehaviour:
     - fsmEvent:
         name: Add Point P2
         isSystemEvent: 0
-        isGlobal: 1
+        isGlobal: 0
       toState: Add Point P2
       linkStyle: 0
       linkConstraint: 0
@@ -1957,11 +1957,11 @@ MonoBehaviour:
         fsmFloatParams: []
         fsmIntParams:
         - useVariable: 1
-          name: Points Reward
+          name: Point Reward P1
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 5
+          value: 0
         - useVariable: 0
           name: 
           tooltip: 
@@ -1969,11 +1969,11 @@ MonoBehaviour:
           networkSync: 0
           value: 1
         - useVariable: 1
-          name: Points Reward
+          name: Point Reward P1
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 5
+          value: 0
         fsmBoolParams:
         - useVariable: 0
           name: 
@@ -2088,7 +2088,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 5
+          value: 0
         - useVariable: 0
           name: 
           tooltip: 
@@ -2100,7 +2100,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 5
+          value: 0
         fsmBoolParams:
         - useVariable: 0
           name: 
@@ -2143,7 +2143,7 @@ MonoBehaviour:
       isGlobal: 1
     - name: Add Point P2
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions:
     - fsmEvent:
         name: Add Point
@@ -2156,7 +2156,7 @@ MonoBehaviour:
     - fsmEvent:
         name: Add Point P2
         isSystemEvent: 0
-        isGlobal: 1
+        isGlobal: 0
       toState: Add Point P2
       linkStyle: 0
       linkConstraint: 0
