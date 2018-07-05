@@ -866,6 +866,7 @@ GameObject:
   - component: {fileID: 1282578022}
   - component: {fileID: 1282578021}
   - component: {fileID: 1282578020}
+  - component: {fileID: 1282578023}
   m_Layer: 5
   m_Name: Tabletop
   m_TagString: Untagged
@@ -888,8 +889,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 5.700012}
-  m_SizeDelta: {x: 0, y: -637.2}
+  m_AnchoredPosition: {x: 0, y: -224.3}
+  m_SizeDelta: {x: 0, y: -1097.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1282578020
 MonoBehaviour:
@@ -935,6 +936,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1282578018}
+--- !u!225 &1282578023
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1282578018}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &1508296554
 GameObject:
   m_ObjectHideFlags: 0
