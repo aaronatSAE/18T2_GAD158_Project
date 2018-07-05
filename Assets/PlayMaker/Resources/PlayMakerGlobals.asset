@@ -15,43 +15,47 @@ MonoBehaviour:
     floatVariables: []
     intVariables:
     - useVariable: 1
+      name: Point Reward P1
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
 <<<<<<< HEAD
-      name: Point Reward P2
-      tooltip: 
-      showInInspector: 0
-      networkSync: 0
-      value: 5
+      value: 0
     - useVariable: 1
-      name: Points Reward
-      tooltip: 
-      showInInspector: 0
-      networkSync: 0
-      value: 5
-    boolVariables: []
-    stringVariables: []
-=======
-      name: Current Player Health i
+      name: P1 Current Health i
       tooltip: 
       showInInspector: 0
       networkSync: 0
       value: 0
     boolVariables: []
     stringVariables:
+=======
+      value: 5
+>>>>>>> c6066ccaf997d4c0a71aa7ec8146b88649ea3c92
     - useVariable: 1
-      name: Current Player Health s
+      name: Point Reward P2
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+<<<<<<< HEAD
+      value: 
+    - useVariable: 1
+      name: P1 Current Health s
       tooltip: 
       showInInspector: 0
       networkSync: 0
       value: 
->>>>>>> 6f0153b021a524910115005d60290d558b7bbb32
+=======
+      value: 5
+    boolVariables: []
+    stringVariables: []
+>>>>>>> c6066ccaf997d4c0a71aa7ec8146b88649ea3c92
     vector2Variables: []
     vector3Variables: []
     colorVariables: []
     rectVariables: []
     quaternionVariables: []
 <<<<<<< HEAD
-    gameObjectVariables: []
-=======
     gameObjectVariables:
     - useVariable: 1
       name: Get Health Manager
@@ -59,7 +63,15 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: {fileID: 0}
->>>>>>> 6f0153b021a524910115005d60290d558b7bbb32
+    - useVariable: 1
+      name: Get P1 Health Manager
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+=======
+    gameObjectVariables: []
+>>>>>>> c6066ccaf997d4c0a71aa7ec8146b88649ea3c92
     objectVariables: []
     materialVariables: []
     textureVariables: []
@@ -68,13 +80,9 @@ MonoBehaviour:
     categories:
     - 
 <<<<<<< HEAD
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000
+=======
     variableCategoryIDs: 0000000000000000
+>>>>>>> c6066ccaf997d4c0a71aa7ec8146b88649ea3c92
   events:
   - Add Point
-  - Add Point P2
-=======
-    variableCategoryIDs: 000000000000000000000000
-  events:
-  - Add Health
-  - Decrease Health
->>>>>>> 6f0153b021a524910115005d60290d558b7bbb32
